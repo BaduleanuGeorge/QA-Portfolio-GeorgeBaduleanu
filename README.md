@@ -1,11 +1,11 @@
-# 🧪 QA Portfolio – George Baduleanu
+🔹 🧪 QA Portfolio – George Baduleanu
 
 Welcome to my QA Testing portfolio!
 This repository showcases my manual testing and automation testing work, demonstrating how I approach test design, bug reporting, and automation frameworks.
 
 ---
 
-## 📌 About Me
+🔹 📌 About Me
 
 I'm a Software Engineering graduate with a strong foundation in both manual and automated testing. I specialize in writing clean, maintainable Cypress tests, documenting bugs with precision, and validating APIs using Postman. My goal is to deliver reliable, scalable test coverage that improves product quality and user experience.
 
@@ -13,7 +13,7 @@ I’m a Software Engineering graduate with experience in QA Testing (manual + au
 
 ---
 
-## 🧰 Tools & Technologies
+🔹 🧰 Tools & Technologies
 
 - **Cypress** – End-to-end test automation for web applications    
 - **Jira** – Bug tracking and issue reporting  
@@ -24,17 +24,17 @@ I’m a Software Engineering graduate with experience in QA Testing (manual + au
 
 ---
 
-## 📂 Repository Structure
+🔹 📂 Repository Structure
 
 ```plaintext
 QA-Portfolio-GeorgeBaduleanu/
 ├── Cypress-Testing/              # Cypress automation scripts
     ├── Cypress-Tests/
-        │   ├── login-success.cy.js
-        │   ├── login-failure.cy.js
-        │   ├── e2e-spec.cy.js
-        │   └── support/
-        │       └── commands.js         # Custom reusable Cypress commands
+|           ├── login-success.cy.js
+|           ├── login-failure.cy.js
+|           ├── e2e-spec.cy.js
+|           └── support/
+|               └── commands.js         # Custom reusable Cypress commands
     ├── Screenshots/                # Visual evidence of test execution
 ├── Jira-Bug-Reports/           # Sample Jira bug reports
 ├── Xray-Test-Cases/            # Manual test cases (Xray/TestRail format)
