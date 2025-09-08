@@ -46,11 +46,11 @@ describe("E2E: Admin Workflow", () => {
     cy.typeInGridItem(3, "John_Doe123");
     cy.typeInGridItem(4, "NewPassword123");
     cy.typeInGridItem(5, "NewPassword123");
-
     // Submit form
     cy.get(".oxd-form-actions .oxd-button--secondary").click();
-
     // 🔹 Assertion: Confirm success
     cy.contains("Successfully Saved").should("be.visible");
+    // 🔹 Log out
+    cy.logout();
   });
 });

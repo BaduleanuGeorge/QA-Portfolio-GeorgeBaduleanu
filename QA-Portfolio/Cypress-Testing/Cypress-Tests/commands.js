@@ -38,6 +38,13 @@ Cypress.Commands.add("login", (username = "Admin", password = "admin123") => {
   });
 });
 
+Cypress.Commands.add("logout", () => {
+  cy.get(".oxd-topbar-header-userarea").click();
+  cy.get(".oxd-topbar-header-userarea").within(() => {
+    cy.get("li").eq(4).click();
+  });
+});
+
 Cypress.Commands.add("typeInGridItem", (index, value) => {
   cy.get(".oxd-grid-item")
     .eq(index)
