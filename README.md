@@ -12,8 +12,7 @@ I'm a Junior QA Tester with a strong foundation in both manual and automated tes
 
 ## 🧰 Tools & Technologies
 
-- **Cypress** – End-to-end test automation for web applications  
-- **Postman** – API testing and validation  
+- **Cypress** – End-to-end test automation for web applications    
 - **Jira** – Bug tracking and issue reporting  
 - **Xray / TestRail** – Test case management  
 - **JavaScript** – Scripting Cypress tests and custom commands  
@@ -32,7 +31,6 @@ QA-Portfolio-GeorgeBaduleanu/
 │   ├── e2e-admin-workflow.spec.js
 │   └── support/
 │       └── commands.js         # Custom reusable Cypress commands
-├── postman-tests/              # API test collections and screenshots
 ├── bug-reports/                # Sample Jira bug reports
 ├── test-cases/                 # Manual test cases (Xray/TestRail format)
 ├── screenshots/                # Visual evidence of test execution
