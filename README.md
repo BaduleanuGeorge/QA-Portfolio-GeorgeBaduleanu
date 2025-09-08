@@ -1,8 +1,8 @@
 # QA Portfolio – George Baduleanu  
 
 This repository showcases my QA skills, including:  
-E2E_Spec1.PNG
-![Login Success](Screenshots/E2E_Spec1.PNG)
+
+![Login Success](QA-Portfolio/Cypress-Testing/Screenshots/E2E_Spec1.PNG)
 
 ## 🔹 Jira Bug Reports
 - 5 issues logged against the OrangeHRM demo site  
