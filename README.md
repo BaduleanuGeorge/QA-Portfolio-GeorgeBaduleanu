@@ -7,8 +7,6 @@ This repository showcases my manual testing and automation testing work, demonst
 
 🔹 📌 About Me
 
-I'm a Software Engineering graduate with a strong foundation in both manual and automated testing. I specialize in writing clean, maintainable Cypress tests, documenting bugs with precision, and validating APIs using Postman. My goal is to deliver reliable, scalable test coverage that improves product quality and user experience.
-
 I’m a Software Engineering graduate with experience in QA Testing (manual + automation) and Software Developing. Currently seeking a Junior QA Tester role where I can apply my skills in both manual and automation testing (Cypress), as well as using the programming knowledge in JavaScript, HTML and CSS to achieve the best result.
 
 ---
