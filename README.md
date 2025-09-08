@@ -1,22 +1,39 @@
-# QA Portfolio – George Baduleanu  
+# 🧪 QA Portfolio – George Baduleanu
 
-This repository showcases my QA skills, including:  
-
-![Login Success](QA-Portfolio/Cypress-Testing/Screenshots/E2E_Spec1.PNG)
-
-## 🔹 Jira Bug Reports
-- 5 issues logged against the OrangeHRM demo site  
-- Each report includes summary, steps to reproduce, expected vs actual results, and screenshots  
-
-## 🔹 Xray Test Cases
-- Positive, Negative, and Boundary test cases  
-- Executed test run with results  
-
-## 🔹 Postman API Testing
-- Collection of 5 requests using JSONPlaceholder API  
-- Includes assertions and response validation  
+Welcome to my Quality Assurance portfolio. This repository showcases my hands-on experience with manual testing, automation, API validation, and bug reporting — all built around real-world tools and workflows used in modern QA teams.
 
 ---
 
-📌 Tools used: Jira, Xray, TestRail, Postman  
-📌 Focus areas: Manual Testing, Test Case Design, Bug Reporting, API Testing  
+## 📌 About Me
+
+I'm a Junior QA Tester with a strong foundation in both manual and automated testing. I specialize in writing clean, maintainable Cypress tests, documenting bugs with precision, and validating APIs using Postman. My goal is to deliver reliable, scalable test coverage that improves product quality and user experience.
+
+---
+
+## 🧰 Tools & Technologies
+
+- **Cypress** – End-to-end test automation for web applications  
+- **Postman** – API testing and validation  
+- **Jira** – Bug tracking and issue reporting  
+- **Xray / TestRail** – Test case management  
+- **JavaScript** – Scripting Cypress tests and custom commands  
+- **GitHub** – Version control and portfolio hosting  
+
+---
+
+## 📂 Repository Structure
+
+```plaintext
+QA-Portfolio-GeorgeBaduleanu/
+├── cypress-tests/              # Cypress automation scripts
+│   ├── login.spec.js
+│   ├── navigation.spec.js
+│   ├── add-employee.spec.js
+│   ├── e2e-admin-workflow.spec.js
+│   └── support/
+│       └── commands.js         # Custom reusable Cypress commands
+├── postman-tests/              # API test collections and screenshots
+├── bug-reports/                # Sample Jira bug reports
+├── test-cases/                 # Manual test cases (Xray/TestRail format)
+├── screenshots/                # Visual evidence of test execution
+└── README.md                   # You're here!
